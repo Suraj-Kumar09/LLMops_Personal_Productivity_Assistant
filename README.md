@@ -100,7 +100,7 @@ LLMops_Personal_Productivity_Assistant/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/LLMops_Personal_Productivity_Assistant.git
+git clone https://github.com/Suraj-Kumar09/LLMops_Personal_Productivity_Assistant.git
 
 cd LLMops_Personal_Productivity_Assistant
 ```
