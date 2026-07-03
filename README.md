@@ -1,4 +1,3 @@
-````markdown
 # 🚀 LLMops_Personal_Productivity_Assistant
 
 > **A production-ready LLMOps Personal Productivity Assistant built to demonstrate the complete lifecycle of enterprise-grade Large Language Model (LLM) applications.**
@@ -29,8 +28,7 @@ This project showcases modern **LLMOps** practices including Retrieval-Augmented
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboarding-F46800?logo=grafana)
 
-
-
+---
 
 ## ✨ Key Features
 
@@ -189,13 +187,11 @@ The application will start locally and can be accessed from your browser.
 
 ---
 
----
-
 # 👨‍💻 Author
 
 **Suraj Kumar**
 
-AI Engineer | Machine Learning Engineer | LLMOps Enthusiast | MLOps 
+AI Engineer | Machine Learning Engineer | LLMOps Enthusiast | MLOps
 
 ---
 
@@ -207,8 +203,4 @@ AI Engineer | Machine Learning Engineer | LLMOps Enthusiast | MLOps
 
 ---
 
-
----
-
 ⭐ If you found this project helpful, consider giving it a star!
-````
